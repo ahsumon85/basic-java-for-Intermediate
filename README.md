@@ -1,6 +1,6 @@
 # Core java basic problem with example
 
-### [`String Method Example`](https://github.com/ahsumon85/basic-java-for-Intermediate/blob/main/StringMethod.java) : The String class has a set of built-in methods that you can use on strings
+** [`String Method Example`](https://github.com/ahsumon85/basic-java-for-Intermediate/blob/main/StringMethod.java) : The String class has a set of built-in methods that you can use on strings
 
 | Method                                                       | Description                                                  | Return Type  |
 | :----------------------------------------------------------- | :----------------------------------------------------------- | :----------- |
